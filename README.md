@@ -1,12 +1,13 @@
 # angular-todo
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+This is a basic AngularJS ToDo application. 
+
+It also stores the items added into a local storage.
+
+This project is generated with yo angular generator (https://github.com/yeoman/generator-angular)
 version 0.15.1.
 
-## Build & development
+This project uses: 
+Grunt for building, previewing and testing the application
+Karma for unit testing
 
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
